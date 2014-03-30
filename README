@@ -1,0 +1,5 @@
+post_normalize	True
+k	100
+mean_center	True
+pre_normalize	None
+min_values	0
